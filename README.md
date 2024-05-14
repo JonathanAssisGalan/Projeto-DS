@@ -1,2 +1,2 @@
-Projetos de Data Science Diversos.
+Projetos variados de Data Science
 =======
