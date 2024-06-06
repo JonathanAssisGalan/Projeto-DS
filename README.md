@@ -1,8 +1,2 @@
-<<<<<<< HEAD
-Olá, o projeto se refere a análise de ações com Regressão Linear.
-Adicionamos o arquivo AnaliseAcoes.
+Projetos variados de Data Science
 =======
-Olá, o projeto se refere a análise de ações.
-Adicionamos o arquivo AnaliseAcoes.
-Geramos um Branch.
->>>>>>> novo-botao
